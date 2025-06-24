@@ -1,0 +1,15 @@
+h1{
+    color:"red";
+    font-size: 30px;
+
+
+}
+p{
+    color: blueviolet;
+   background-color: rgb(244, 244, 244);
+   
+}
+button{
+    background-color: rgb(0, 0, 1);
+    color: rgb(252, 3, 3);
+}
