@@ -1,0 +1,20 @@
+body{
+    background-color:rgb(0, 0, 0);
+    text-align:center;
+   color: rgb(255, 0, 0);
+   font-size: 20px;
+
+}
+h1{
+    font-size:50px;
+    color: rgb(240, 8, 8);
+}
+form{
+    background-color:black;
+}
+fieldset{
+    margin-left: 500px;
+    margin-right: 500px;
+    margin-top: auto;
+    margin-bottom: auto;
+}
