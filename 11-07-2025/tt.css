@@ -1,0 +1,111 @@
+/* *{
+   margin: 0;
+} */
+/* body{
+    /* align-items: center;
+    align-content: center;
+    /* align-self: center; 
+} */
+ h1{
+    text-align: center;
+    font-family: cursive;
+    /* font-weight: 500; */
+    font-size: 80px;
+    color: white;
+    margin-top: 0;
+    /* cursor: pointer; */
+ }
+ #ta{
+    width:50%;
+    height:300px;
+    /* align-items: center; */
+    /* left: 500px;
+    top: 100px; */
+    /* margin-top: 10px;  */
+    margin-left: 400px;
+    /* margin-bottom: 500px; */
+    margin-top: 0;
+    font-size: 30px;
+     /* position: fixed; */
+     position: relative;
+     overflow: hidden;
+ } 
+ .ta textarea{
+position: fixed;
+ }
+ 
+ .ntr{
+    align-items: center;
+ }
+ body{
+    background-color: black;
+ }
+ button{
+    /* align-items: center; */
+    /* cursor: none; */
+    width: 25%;
+    height: 50px;
+     /* margin-left: 400px;
+     margin-bottom: 100px; */
+     /* display: flex; */
+     /* color: red; */
+     background-color: tan;
+     cursor: pointer;
+ }
+ #ntr3{
+  /* font-size: 0px; */
+  /* font-family: cursive; */
+  color: white;
+  display: inline-block;
+  /* gap: 50%; */
+  /* margin-bottom: 100%; */
+ }
+ /* #n1{
+/* margin-right: 100px;
+margin-bottom: 100%;
+ }  */
+   .ntr4{
+    height:500px;
+    width:20px;
+   }
+   .ntr5{
+    height:900px;
+    /* width:0px; */
+   } 
+    /* ntr6{
+        display: flex;
+    } */
+     .ntr2{
+        display: flex;
+        gap: 300px;
+        margin-left: 400px;
+        margin-top: 50px;
+        font-family: cursive;
+     }
+     .ntr7{
+        display: flex;
+         gap: 300px;
+        margin-left: 400px;
+        /* margin-top: 50px; */
+        font-family: cursive;
+     }
+     h6{
+        color: white;
+        font-size: 20px;
+        margin-left: 400px;
+        /* margin-top: 0; */
+        margin-bottom: 5px;
+        font-family: cursive;
+     }
+     button:hover{
+        background-color:rgb(181, 142, 155);
+      }
+     /* .ntr+label{
+       position:fixed;
+     }
+
+     .ntr::placeholder{
+        color: transparent;
+        /* position: fixed; 
+     } */ 
+    
